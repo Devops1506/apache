@@ -1,0 +1,5 @@
+#Excute the following command through the jenkins
+
+$uptime
+
+$du -sh

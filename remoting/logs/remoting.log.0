@@ -1,0 +1,4 @@
+Sep 24, 2019 4:29:41 PM org.jenkinsci.remoting.util.AnonymousClassWarnings warn
+WARNING: Attempt to (de-)serialize anonymous class org.jenkinsci.plugins.gitclient.Git$1; see: https://jenkins.io/redirect/serialization-of-anonymous-classes/
+Sep 24, 2019 4:29:45 PM org.jenkinsci.remoting.util.AnonymousClassWarnings warn
+WARNING: Attempt to (de-)serialize anonymous class org.jenkinsci.plugins.gitclient.RemoteGitImpl$CommandInvocationHandler$1; see: https://jenkins.io/redirect/serialization-of-anonymous-classes/
